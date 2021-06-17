@@ -1,7 +1,7 @@
 # Algorithm
 Integration of basic algorithms and business algorithms. Of course, the original intention of the project was to integrate some interesting algorithms.
 
-
+```
 Catalog 
 ├── /.github/
 │  ├──/ISSUE_TEMPLATE/
@@ -19,3 +19,8 @@ Catalog
 ├── Algorithm.jar  (* Completed the build. The exported JAR package can be directly imported into the project for use.)
 ├── LICENSE
 ├── README.md
+```
+
+
+### Copyright
+This project is under an MIT license, see details [LICENSE.txt](https://github.com/KLZ98/Algorithm/blob/main/LICENSE)
